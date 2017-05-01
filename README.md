@@ -1,2 +1,2 @@
-# RobotSTM
-Moving a Robot Arm using Mems Sensor
+# Servo
+Move robot arm using mems sensor
